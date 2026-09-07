@@ -1,0 +1,6 @@
+{
+  "name": "Petal & Stem Flower Shop",
+  "description": "Artisan flower shop website with Google Analytics 4 integration and live analytics matrix dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
